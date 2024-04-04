@@ -1,9 +1,3 @@
-![](https://csdnimg.cn/release/blogv2/dist/pc/img/original.png)
-
-[Julyers](https://blog.csdn.net/weixin_41631106 "Julyers") ![](https://csdnimg.cn/release/blogv2/dist/pc/img/newUpTime2.png) 已于 2023-08-23 12:01:14 修改
-
-ORB\_SLAM2官方开源：[https://github.com/raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2)
-
 ## 一、编译
 
 > 我的环境：
